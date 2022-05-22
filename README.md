@@ -1,6 +1,6 @@
 # Painoindeksilaskuri
 
-Try it at: http://bmi-ahepu003.herokuapp.com/home :)
+Try it at: http://bmi-ahepu003.herokuapp.com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
